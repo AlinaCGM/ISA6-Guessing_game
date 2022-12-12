@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  padding-top: 30%;
+}
+input {
+  appearance: none !important;
+}
